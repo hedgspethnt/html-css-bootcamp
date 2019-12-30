@@ -1,0 +1,10 @@
+.happiness{
+  text-align: right;
+  text-emphasis-color: red;
+  text-decoration-color: red;
+  height: 1px;
+  background-color: red;
+  font-size: 30px;
+  font-style: oblique;
+
+}
