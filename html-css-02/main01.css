@@ -1,0 +1,32 @@
+div{
+  width:130px;
+  height: 100px;
+  border:1px solid red;
+
+background-image: url(/Users/hedgspethnt/html-css-bootcamp/001essentials-tags/planet.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size:cover;
+display:;
+}
+img{
+height:100px;
+width:50px;
+  border: 10px groove orangered;
+  border-radius: 100%;
+  padding: 10px;
+  margin: 30px;
+box-sizing: border-box;
+}
+.oneplanet{
+
+  border: 10px groove green;
+}
+.twoplanet{
+
+  border: 10px groove blue;
+}
+.threeplanet{
+
+  border: 10px groove purple;
+}

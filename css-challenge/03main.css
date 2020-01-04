@@ -1,0 +1,12 @@
+div{
+  width: 100px;
+  height: 200px;
+  background-color: red;
+  border-radius: 30px;
+  border:20px;
+  border-style: groove;
+background-image: url(http://www.urbandogtraining.com.au/user/Image/shutterstock_63199276_resizeweb.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
